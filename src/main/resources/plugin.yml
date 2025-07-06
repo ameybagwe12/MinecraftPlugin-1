@@ -1,0 +1,4 @@
+name: MinecraftCowCannon
+version: '1.0-SNAPSHOT'
+main: org.minecraft.minecraftCowCannon.MinecraftCowCannon
+api-version: '1.21'
