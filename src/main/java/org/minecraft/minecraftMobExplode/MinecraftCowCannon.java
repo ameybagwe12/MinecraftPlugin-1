@@ -1,4 +1,4 @@
-package org.minecraft.minecraftCowCannon;
+package org.minecraft.minecraftMobExplode;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

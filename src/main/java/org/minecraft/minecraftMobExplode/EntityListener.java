@@ -1,6 +1,5 @@
-package org.minecraft.minecraftCowCannon;
+package org.minecraft.minecraftMobExplode;
 
-import org.bukkit.entity.Cow;
 import org.bukkit.entity.Villager;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/minecraftcowcannon.iml" filepath="$PROJECT_DIR$/minecraftcowcannon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minecraftmobexplode.iml" filepath="$PROJECT_DIR$/minecraftmobexplode.iml" />
     </modules>
   </component>
 </project>
